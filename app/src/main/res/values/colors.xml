@@ -7,6 +7,8 @@
     <!--Login and sign up screen -->
     <color name="login_signup_bg">#334856</color>
     <color name="white">#FFFFFF</color>
+    <color name="sign_up_bg">#87BCBF</color>
+    <color name="textColorHint">#87BCBF</color>
 
 
 </resources>
