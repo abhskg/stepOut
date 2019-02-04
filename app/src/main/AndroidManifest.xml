@@ -16,7 +16,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SingUpActivity"></activity>
+        <activity android:name=".AddFavSport"></activity>
+        <activity android:name=".AddProfilePic" />
+        <activity android:name=".SingUpActivity" />
         <activity
             android:name=".LoginActivity"
             android:label="@string/app_name">

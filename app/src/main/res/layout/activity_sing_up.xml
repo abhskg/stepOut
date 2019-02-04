@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:clickable="true"
             android:focusable="true"
-            android:text="SKIP"
+            android:text="@string/skip_text"
             android:textColor="#1B1C20"
             android:alpha="0.5"/>
     </LinearLayout>
