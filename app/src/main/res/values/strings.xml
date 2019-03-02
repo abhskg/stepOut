@@ -24,4 +24,7 @@
     <string name="your_password_hint">Your password</string>
     <string name="re_enter_your_password_hint">Re-Enter your password</string>
     <string name="next_btn_text">NEXT</string>
+    <string name="skip_text">SKIP</string>
+    <string name="add_profile_pic_text">Add your profile picture. </string>
+    <string name="add_profile_pic_support_text">Makes it easier to find you.</string>
 </resources>

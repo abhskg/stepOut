@@ -9,6 +9,7 @@
     <color name="white">#FFFFFF</color>
     <color name="sign_up_bg">#87BCBF</color>
     <color name="textColorHint">#87BCBF</color>
+    <color name="add_profile_pic_bg">#D97D54</color>
 
 
 </resources>
